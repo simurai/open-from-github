@@ -1,0 +1,18 @@
+{
+  "name": "open-from-github",
+  "main": "./lib/open-from-github",
+  "version": "0.1.0",
+  "description": "Opens stuff from github.com in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/simurai/open-from-github",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "uriHandler": {
+    "method": "handleURI"
+  },
+  "dependencies": {
+  }
+}
