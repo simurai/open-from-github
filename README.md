@@ -1,5 +1,5 @@
-# Open from GitHub
+# GitHub -> Atom
 
-Opens stuff from github.com in Atom.
+An Atom package that lets you open stuff from github.com in Atom.
 
 > Very much :construction: WIP :construction:
